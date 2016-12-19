@@ -1,0 +1,33 @@
+12.13.2016
+=====================
+I have used guide from 
+https://www.godaddy.com/help/build-a-lamp-stack-linux-apache-mysql-php-centos-7-17344
+
+to set up the development environment in a Centos 7 machine.
+
+top level directory of my work 
+http://localhost/PHPMYSQL5/
+
+all web files must be added to the /var/www/html folder
+
+I am using maria db - root ps is root!! go hack it
+
+
+review this link for tables
+https://www.linode.com/docs/databases/mariadb/how-to-install-mariadb-on-centos-7
+
+
+to setup phpmyadmin
+https://www.liquidweb.com/kb/how-to-install-and-configure-phpmyadmin-on-centos-7/
+
+//////////////////////
+Database basic commands
+/////////////////////
+show databases;
+
+drop database test;
+
+show table;
+
+describle tablename;
+
